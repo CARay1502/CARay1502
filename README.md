@@ -10,7 +10,7 @@
 
 ## 🌱 Currently Working on...
 - [FluentSwing](https://github.com/CARay1502/fluentswing-java-gui) - A wrapper library for Java's Swing Library making development easier with Swing.
-- [Study Timer Chrome Extension](https://github.com/CARay1502/study-timer-chrome-extension) - A Chrome Extension for a helpful study tool. Screenshots your work.
+- [DRIP](https://github.com/CARay1502/DRIP-ML-Project) - A ML program that predicts inventory demand for retail stores before weather events.
 - Wins Journal Mobile App - COMING SOON!!
 
 ## 🤔 Areas of Interest: 
