@@ -6,8 +6,10 @@
 
 ## 📖 Currently Learning...
 - <em>Currently</em>: BS CS Student at Univeristy of North Carolina at Charlotte
-- <em>Future</em>: MS CS Student at University of North Carolina at Charlotte
-
+  -- Software Engineering
+  -- Artifical Intelligence and Machine Learning Systems
+  -- Data Structures and Algorithms
+  
 ## 🌱 Currently Working on...
 - [FluentSwing](https://github.com/CARay1502/fluentswing-java-gui) - A wrapper library for Java's Swing Library making development easier with Swing.
 - [DRIP](https://github.com/CARay1502/DRIP-ML-Project) - A ML program that predicts inventory demand for retail stores before weather events.
